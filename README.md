@@ -18,3 +18,8 @@ I currently study network administration and security, which includes:
 
 When I'm not coding, you will usually find me playing minecraft with my friends or just chilling on my discord.
 
+<p>
+    <a href="https://discord.com/users/883128445079547904">
+        <img src="https://discord.c99.nl/widget/theme-4/883128445079547904.png"/>
+    </a>
+</p> 
