@@ -1,9 +1,5 @@
 ## Hey there, I'm Nuro! 👋
  
-<a href="https://www.codewars.com/users/NuroC">
-    <img src="https://www.codewars.com/users/NuroC/badges/large" height="50"/>
-</a>
-
 ![](https://github-readme-stats.vercel.app/api?username=NuroC&count_private=true&show_icons=true&theme=dark)
 
 
