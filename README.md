@@ -9,7 +9,8 @@ I currently study network administration and security, which includes:
 - Network Design
 - TCP/IP Activities
 - Linux CLI
-- SQL
+
+I also like to code scripts for browser games, discord bots, and other totally random stuff that comes to my mind.
 
 
 When I'm not coding, you will usually find me playing minecraft with my friends or just chilling on my discord.
