@@ -5,10 +5,7 @@
 
 ### ✨ About me ✨
 
-I currently study network administration and security, which includes:
-- Network Design
-- TCP/IP Activities
-- Linux CLI
+I currently study network administration and security, and some geometry stuff (algebra idk)
 
 I also like to code scripts for browser games, discord bots, and other totally random stuff that comes to my mind.
 
