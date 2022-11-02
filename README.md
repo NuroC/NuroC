@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nuro</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+## Hey there, I'm Nuro! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuroc&label=Profile%20views&color=0e75b6&style=flat" alt="nuroc" /> </p>
+An Amateur-ish Developer from germany
 
-- 🔭 I’m currently working on **Nothing special, mostly probably a website**
+### ✨ About me ✨
 
-- 🤝 I’m looking for help with **learning front-end web development**
+I currently study network administration and security, and some geometry stuff (algebra idk)
 
+I also like to code scripts for browser games, discord bots, and other totally random stuff that comes to my mind.
+
+<p>
+    <a href="https://discord.com/users/883128445079547904">
+        <img src="https://discord.c99.nl/widget/theme-4/883128445079547904.png"/>
+    </a>
+</p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nuroc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nuroc" height="30" width="40" /></a>
