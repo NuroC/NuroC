@@ -17,7 +17,6 @@ I also like to code scripts for browser games, discord bots, and other totally r
 </p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nuroc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nuroc" height="30" width="40" /></a>
 <a href="https://discord.gg/NMS3YR9Q5R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NMS3YR9Q5R" height="30" width="40" /></a>
 </p>
 
