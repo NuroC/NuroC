@@ -6,9 +6,9 @@ An Amateur-ish Developer from germany
 
 ### ✨ About me ✨
 
-I currently study network administration and security, and some geometry stuff (algebra idk)
+I currently study network administration and security, really a lot related to cybersecurity in general, and calculus 2.
 
-I also like to code scripts for browser games, discord bots, and other totally random stuff that comes to my mind.
+I also like to code, often in nodeJS, or just anything that comes to my mind.
 
 <p>
     <a href="https://discord.com/users/883128445079547904">
