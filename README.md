@@ -1,4 +1,4 @@
-## Hey there, I'm Nuro! 👋
+## Nuro joined the chat...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuroc&label=Profile%20views&color=0e75b6&style=flat" alt="nuroc" /> </p>
 
