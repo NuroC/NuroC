@@ -1,9 +1,4 @@
 ## Nuro joined the chat...
-<p>
-    <a href="https://discord.com/users/883128445079547904">
-        <img src="https://github-stats-alpha.vercel.app/api?username=NuroC&cc=22272e&tc=37BCF6&ic=fff"/>
-    </a>
-</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuroc&label=Profile%20views&color=0e75b6&style=flat" alt="nuroc" /> </p>
 
