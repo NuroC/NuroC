@@ -24,8 +24,6 @@
      Feel Free to add me on any of the socials linked
 </h4>
 
-<br />
-<br />
 
 ### What programming languages am I learning?
 
