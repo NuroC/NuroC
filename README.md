@@ -9,7 +9,7 @@
 
 </h3>
 
-<a href="https://discordapp.com/users/492816296103378948">
+<a href="https://discordapp.com/users/883128445079547904">
      <img
           align="left" alt="Discord"
           src="https://img.shields.io/badge/-Nuro%239818-5865F2?&style=flat-square&logo=discord&logoColor=white"
