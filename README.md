@@ -1,7 +1,8 @@
-<img align="left" alt="Avatar" width="200px" src="https://media.discordapp.net/attachments/924769536547389461/1072897616179888178/120349eae8fe44381dc67957c398eb81-modified.png" />
+<img align="left" alt="Avatar" width="150px" src="https://media.discordapp.net/attachments/924769536547389461/1072897616179888178/120349eae8fe44381dc67957c398eb81-modified.png" />
 <h3 align="left"> 👋 Hello! </h3>
 <a href="https://discordapp.com/users/883128445079547904">
   <img align="left" alt="Discord" src="https://img.shields.io/badge/-Nuro%239818-5865F2?&style=flat-square&logo=discord&logoColor=white" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=NuroC&style=flat-square" />
 </a>
 <hr>
 <h4 align="left"> I'm Nuro, and I'm a self-taught programmer from Germany. <br> Feel Free to add me on any of the socials linked </h4>
