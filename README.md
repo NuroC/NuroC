@@ -8,7 +8,7 @@
 <h4 align="left"> I'm Nuro, and I'm a self-taught programmer from Germany. <br> Feel Free to add me on any of the socials linked </h4>
 <br />
 
-### What programming languages am I learning?
+### Tools and languages:
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
